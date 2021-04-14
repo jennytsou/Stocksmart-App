@@ -1,5 +1,3 @@
-# Stocksmart-App
-Stock investments for beginners  
 <h1 align = "center"> Investment Web Application: StockSmart </h1>
 
 _Main Contributors: Yuehchen Tsou and Christine Johnson
