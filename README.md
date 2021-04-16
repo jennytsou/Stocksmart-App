@@ -1,4 +1,5 @@
-<h1 align = "center"> Investment Web Application: StockSmart </h1> <img width="693" alt="StockSmart_option1" src="https://user-images.githubusercontent.com/50720457/115057200-fe19ed00-9ea0-11eb-8ab8-a8757feaf5b2.png">
+<h1 align = "center"> Investment Web Application: StockSmart </h1> <img width="174" alt="StockSmart_option1-1" src="https://user-images.githubusercontent.com/50720457/115057688-9a43f400-9ea1-11eb-8c53-d88e8e4a2a1b.png">
+
 
 
 _Main Contributors: Yuehchen Tsou and Christine Johnson
