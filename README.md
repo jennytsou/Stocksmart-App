@@ -1,4 +1,4 @@
-<h1 align = "center"> Investment Web Application: StockSmart <img width="87" alt="StockSmart_option1-1" src="https://user-images.githubusercontent.com/50720457/115058044-09214d00-9ea2-11eb-8ee9-13c5b9b692d5.png"> </h1>
+<h1 align = "center"> Investment Web Application:  <img width="87" alt="StockSmart_option1-1" src="https://user-images.githubusercontent.com/50720457/115058044-09214d00-9ea2-11eb-8ee9-13c5b9b692d5.png"> </h1>
 
 
 
